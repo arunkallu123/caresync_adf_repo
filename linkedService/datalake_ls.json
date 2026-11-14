@@ -1,0 +1,10 @@
+{
+	"name": "datalake_ls",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://healthcarekalluadlsgen2.dfs.core.windows.net/"
+		}
+	}
+}
