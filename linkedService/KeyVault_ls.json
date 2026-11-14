@@ -1,0 +1,10 @@
+{
+	"name": "KeyVault_ls",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://caresynckallukeyvault.vault.azure.net/"
+		}
+	}
+}
